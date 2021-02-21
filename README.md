@@ -29,3 +29,8 @@ Ethereum | Javascript | Truffle | Defi
 Hyperledger Fabric | Golang | Chainlink | Gaming
 ICON | Solidity | Wallets | Enterprises
 Zilliqa | Scilla | OpenZeppelin | Infrastructure
+
+
+You know you met the right guy when you reach out!
+
+Cheers.
