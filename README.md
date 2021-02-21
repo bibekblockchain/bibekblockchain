@@ -14,7 +14,6 @@ Bibek in Nepali - the capability to differentiate right and wrong
 > I have experience working in the Blockchain industry for 3 years and application development for 4 years.
 > I have worked with different teams, nationally and internationally to research and develop solutions on Blockchain.
 > Developing customized applications, better problem-solving methods as well as learning new technologies and platforms excites me. 
-```
 
 #### Skills and Expertise
 - dApps and blockchain based solutions
