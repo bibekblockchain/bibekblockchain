@@ -22,3 +22,10 @@
 - System Architecture and Design 
 - Docker, Kubernetes and Microservices
 - SaaS and Agile Project Management
+
+Blockchain Platforms | Programming Languages | Tools | Domains
+--- | --- | --- | --- 
+Ethereum | Javascript | Truffle | Defi
+Hyperledger Fabric | Golang | Chainlink | Gaming
+ICON | Solidity | Wallets | Enterprises
+Zilliqa | Scilla | OpenZeppelin | Infrastructure
