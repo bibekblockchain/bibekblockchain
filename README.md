@@ -1,5 +1,6 @@
-<img align ="right" src = "https://avatars.githubusercontent.com/u/24819893?s=400&u=413e3732bf1b12d99a3d152148cb3669ed723e4c&v=4" width="150" height="150">
-### Bibek Koirala here. 👋.<br /><br>
+<img align ="right" src = "https://avatars.githubusercontent.com/u/24819893?s=400&u=413e3732bf1b12d99a3d152148cb3669ed723e4c&v=4" width="180" height="170">
+
+<h2>Bibek Koirala here. 👋. </h2> <br>
 <span>Bibek in Nepali - the capability to differentiate right and wrong</span>
 
 <h3 align="center">Connect with me</h3>
