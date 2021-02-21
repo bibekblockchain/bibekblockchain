@@ -1,7 +1,5 @@
 ### Bibek Koirala here. 👋.<br /><br>
-Bibek in Nepali - the capability to differentiate right and wrong
-
-#### Blockchain Professional who believes decentralization is the future
+<span>Bibek in Nepali - the capability to differentiate right and wrong</span>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
