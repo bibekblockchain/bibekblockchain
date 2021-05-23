@@ -1,4 +1,4 @@
-<img align ="right" src = "https://avatars.githubusercontent.com/u/6250754?s=200&v=4" width="250" height="250">
+<img align ="right" src = "https://avatars.githubusercontent.com/u/32560879?s=200&v=4" width="250" height="250">
 
 <h2>Bibek Koirala here. 👋. </h2> <br>
 <span>Bibek in Nepali - the capability to differentiate right and wrong</span>
