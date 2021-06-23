@@ -1,4 +1,4 @@
-<img align ="right" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" width="250" height="250">
+<img align ="right" src = "https://avatars.githubusercontent.com/u/73444583?s=200&v=4" width="250" height="250">
 
 <h2>Bibek Koirala here. 👋. </h2> <br>
 <span>Bibek in Nepali - the capability to differentiate right and wrong</span>
