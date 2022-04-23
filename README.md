@@ -14,6 +14,3 @@
 > With 5+ experience in blockchain and web3 as a developer and consultant, I am looking forward to disrupting the blockchain industry with new ventures that are directed toward solving the existing problems in the ecosystem and heading towards mass adoption.
 
 Cheers.
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/blockchaindev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="blockchaindev" /></a></p><br><br>
